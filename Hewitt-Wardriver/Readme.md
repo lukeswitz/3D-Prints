@@ -1,3 +1,7 @@
+> [!NOTE]
+>These are works in progress. They have been tested and print, but could use proper finishing.
+> (These mods were done quickly and on mobile, help welcome). 
+
 
 Battery & Micro Case sources:
 
