@@ -1,7 +1,7 @@
 > [!NOTE]
 >These are works in progress to add a third antenna to Krrawn's slim design & dual battery cases.
 > 
-> - `5gFit` files add 3mm to accommodate the BW16 board without build modifications to the board. 
+> - `5gFit` files add an extra 3mm to accommodate the BW16 board without build modifications to slim it down. 
 > 
 > Be sure to follow the print guidelines and battery sled instructions at the provided links:
 
