@@ -19,5 +19,8 @@ Remixed from [this model](https://www.thingiverse.com/thing:4440217)
 
 ![image](https://github.com/user-attachments/assets/42c15fb8-c21f-469c-879e-be91596645ce)
 
+![image](https://github.com/user-attachments/assets/dd47a250-9fcd-405f-b4db-eac85b81b960)
+
+
 
 #### Credit: Remixed from [this model](https://www.thingiverse.com/thing:4600211)
